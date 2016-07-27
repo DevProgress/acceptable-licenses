@@ -5,11 +5,11 @@ This repository contains a listing of our projects, and their associated license
 
 |           PROJECT            |           LICENSE            |        SOURCE                                   |            URL               |
 | ---------------------------- | ---------------------------- | ----------------------------------------------- | ---------------------------- |
-| Code-of-Conduct              | CC-Zero                      | https://github.com/DevProgress/code-of-conduct  |                              |
-| Hillary Events Map           | MIT                          | https://github.com/DevProgress/HillaryEventsMap |                              |
-| HillaryBNB                   | AGPL                         | https://github.com/DevProgress/HillaryBNB       |                              |
-| DevProgress                  | MIT                          | https://github.com/DevProgress/DevProgress      |                              |
-| Inventory                    | CC-BY-SA                     | https://github.com/DevProgress/inventory        |                              |
+| Code-of-Conduct              | CC-Zero                      | https://github.com/DevProgress/code-of-conduct  | #                            |
+| Hillary Events Map           | MIT                          | https://github.com/DevProgress/HillaryEventsMap | #                            |
+| HillaryBNB                   | AGPL                         | https://github.com/DevProgress/HillaryBNB       | #                            |
+| DevProgress                  | MIT                          | https://github.com/DevProgress/DevProgress      | #                            |
+| Inventory                    | CC-BY-SA                     | https://github.com/DevProgress/inventory        | #                            |
 |                              |                              |                                                 |                              |
 |                              |                              |                                                 |                              |
 
@@ -23,7 +23,6 @@ This repository contains a listing of our projects, and their associated license
 |   GPL                        | GNU General Public License v3.0              | Source Code      | http://choosealicense.com/licenses/gpl-3.0/      |
 |   MIT                        | MIT                                          | Source Code      | http://choosealicense.com/licenses/mit/          |
 |                              |                                              |                  |                                                  |
-| ---------------------------- | -------------------------------------------- | ---------------- | ------------------------------------------------ |
 |   CC-BY                      | Creative Commons Attribution 4.0             | Content          | http://choosealicense.com/licenses/cc-by-4.0/    |
 |   CC-BY-SA                   | Creative Commons Attribution Share Alike 4.0 | Content          | http://choosealicense.com/licenses/cc-by-sa-4.0/ |
 |   CC-Zero                    | Creative Commons Zero v1.0                   | Content          | http://choosealicense.com/licenses/cc0-1.0/      |
