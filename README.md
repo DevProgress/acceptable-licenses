@@ -16,7 +16,7 @@ This repository contains a listing of our projects, and their associated license
 
 ## Acceptable Licenses 
 
-|   LICENSE     |              Full-Name                       |     PURPOSE      |           URL                                    |
+|   LICENSE     |              FULLNAME                        |     PURPOSE      |           URL                                    |
 | ------------- | -------------------------------------------- | ---------------- | ------------------------------------------------ |
 |   AGPL        | GNU Affero General Public License v3.0       | Source Code      | http://choosealicense.com/licenses/agpl-3.0/     |
 |   APACHE      | Apache License 2.0                           | Source Code      | http://choosealicense.com/licenses/apache-2.0/   |
