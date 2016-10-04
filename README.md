@@ -6,10 +6,9 @@ This repository contains a listing of our projects, and their associated license
 |           PROJECT            |           LICENSE            |        SOURCE                                   |            URL               |
 | ---------------------------- | ---------------------------- | ----------------------------------------------- | ---------------------------- |
 | Code-of-Conduct              | CC-Zero                      | https://github.com/DevProgress/code-of-conduct  | #                            |
-| Hillary Events Map           | MIT                          | https://github.com/DevProgress/HillaryEventsMap | #                            |
+| Hillary Events Map           | MIT                          | https://github.com/DevProgress/hrc-events       | #                            |
 | HillaryBNB                   | AGPL                         | https://github.com/DevProgress/HillaryBNB       | #                            |
-| DevProgress                  | MIT                          | https://github.com/DevProgress/DevProgress      | #                            |
-| Inventory                    | CC-BY-SA                     | https://github.com/DevProgress/inventory        | #                            |
+| DevProgress                  | MIT                          | https://github.com/DevProgress/DevProgress      | #                            |                      |
 |                              |                              |                                                 |                              |
 |                              |                              |                                                 |                              |
 
